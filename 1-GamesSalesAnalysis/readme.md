@@ -6,7 +6,7 @@
 
 ## Использованные технологии и библиотеки
 
-Python, pandas, matplotlib, scipy
+Python, pandas, NumPy, SciPy, matplotlib
 
 ## Использованные аналитические инструменты
 

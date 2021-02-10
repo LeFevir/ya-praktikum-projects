@@ -6,3 +6,4 @@
 
 - [Анализ продажи игр](1-GamesSalesAnalysis)
 - [Анализ бизнес-показателей Яндекс.Афиши](2-BusinessMetricsAnalysis)
+- [Анализ результатов A/B тестирования и приоритизация гипотез](3-ABtestingAnalysis)

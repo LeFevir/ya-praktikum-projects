@@ -4,4 +4,4 @@
 
 Для публичного доступа оставлен только сам анализ, без исходных данных, поторые были предоставлены Яндекс.Практикумом.
 
-[1. GamesSalesAnalysis](#\1-GamesSalesAnalysis\GamesSalesAnalysis.ipynb)
+[1. Анализ продажи игр](1-GamesSalesAnalysis\GamesSalesAnalysis.ipynb)
